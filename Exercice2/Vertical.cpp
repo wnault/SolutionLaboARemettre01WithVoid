@@ -1,4 +1,4 @@
-// But : Écrire un programme qui prend comme entrée un nombre de cinq chiffres.
+// But : Écrire un programme qui prend comme entrée un nombre de cinq chiffres positifs.
 // Il doit afficher les chiffres verticalement.
 // Auteur : William Nault
 // Date : 2021-09-02
@@ -46,7 +46,7 @@ void main()
 	}
 
 	// Plan de test
-	// écrire les tests ici mais j'ai la flemme
+	// nb1         1234 ne contient pas 5 chiffres 
 
 
 }
