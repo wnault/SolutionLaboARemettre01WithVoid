@@ -27,6 +27,10 @@ void main()
 		std::cout << nb1 << " est un nombre impair.";
 	}
 
-
-	//509212 (509212 est un nombre pair), 000000 (0 est un nombre pair),00000000001 (1 est un nombre impair)
+	// Plan de test
+	// nb1
+	// 509212     509212 est un nombre pair
+	// 000000     000000 est un nombre pair
+	// 000000001  0000000001 est un nombre impair
+	// A          A est erreur : 0 est pair
 }
